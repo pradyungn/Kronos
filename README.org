@@ -1,0 +1,4 @@
+#+TITLE: Kronos
+A CLI agenda application meant to create a cohesive task-tracking experience.
+
+Uses ncurses for the terminal front-end and polybar IPC hooks for notification.
